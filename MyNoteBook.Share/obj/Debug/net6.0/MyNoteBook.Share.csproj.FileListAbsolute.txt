@@ -1,0 +1,12 @@
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\bin\Debug\net6.0\MyNoteBook.Share.deps.json
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\bin\Debug\net6.0\MyNoteBook.Share.dll
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\bin\Debug\net6.0\MyNoteBook.Share.pdb
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.csproj.AssemblyReference.cache
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.GeneratedMSBuildEditorConfig.editorconfig
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.AssemblyInfoInputs.cache
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.AssemblyInfo.cs
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.csproj.CoreCompileInputs.cache
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.dll
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\refint\MyNoteBook.Share.dll
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\MyNoteBook.Share.pdb
+D:\Home\Coding\MyNoteBook\MyNoteBook.Share\obj\Debug\net6.0\ref\MyNoteBook.Share.dll
